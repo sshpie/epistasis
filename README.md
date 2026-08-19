@@ -281,7 +281,7 @@ A comprehensive binary analysis platform combining LLM-driven semantic understan
 
 ```bash
 # Clone repository
-git clone https://github.com/zellkernel/epistasis.git
+git clone https://github.com/sshpie/epistasis.git
 cd epistasis
 
 # Install dependencies
@@ -681,6 +681,6 @@ MIT License - see LICENSE file for details
 @software{epistasis_2025,
   title={Epistasis: Multi-Agent Binary Analysis Framework},
   year={2025},
-  url={https://github.com/zellkernel/epistasis}
+  url={https://github.com/sshpie/epistasis}
 }
 ```
